@@ -57,12 +57,17 @@ The server runs locally and communicates over MCP using SSE or Streamable HTTP t
 ```bash
 pip install fastmcp yfinance requests
 ```
+### Sample Folder Structure
+```
 your_project/
 ├──src/
 │   └── logger.py
 │   ├── main.py
 ├──logs/
-
+├──dockerfile
+├──README.md
+├──requirements.txt
+```
 ### Running the Server
 
 ## Start the MCP server:
