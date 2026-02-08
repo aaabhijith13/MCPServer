@@ -1,0 +1,12 @@
+2026-02-08 13:43:46 - mcp_server - INFO - start:18 - Starting MCP Server on port 8000
+2026-02-08 13:43:46 - mcp_server - ERROR - start:21 - Failed to start MCP Server: 'FastMCP' object has no attribute 'start'
+2026-02-08 13:49:38 - mcp_server - INFO - start:18 - Starting MCP Server on port 8000
+2026-02-08 13:57:17 - mcp_server - INFO - start:44 - Initializing MCP Server (port=8000)
+2026-02-08 13:57:17 - mcp_server - INFO - main:55 - Starting MCP Server transport=sse
+2026-02-08 13:57:25 - mcp_server - INFO - main:62 - Server terminated
+2026-02-08 13:58:19 - mcp_server - INFO - start:44 - Initializing MCP Server (port=8000)
+2026-02-08 13:58:19 - mcp_server - INFO - main:55 - Starting MCP Server transport=sse
+2026-02-08 14:02:49 - mcp_server - INFO - main:62 - Server terminated
+2026-02-08 14:05:26 - mcp_server - INFO - start:44 - Initializing MCP Server (port=8000)
+2026-02-08 14:05:26 - mcp_server - INFO - main:55 - Starting MCP Server transport=sse
+2026-02-08 14:07:52 - mcp_server - INFO - main:62 - Server terminated
